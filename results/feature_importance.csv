@@ -1,0 +1,16 @@
+feature,roc_auc_drop
+contact,0.0755
+month,0.0595
+day,0.0288
+poutcome,0.0225
+pdays,0.0102
+housing,0.0083
+marital,0.0075
+age,0.0054
+campaign,0.0053
+balance,0.0039
+loan,0.0008
+education,0.0005
+job,0.0
+default,0.0
+previous,-0.0009
