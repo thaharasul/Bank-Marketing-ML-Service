@@ -1,0 +1,4 @@
+model,macro_f1,precision,recall,roc_auc
+majority_baseline,0.4689,0.0,0.0,0.5
+logistic_regression,0.6104,0.2662,0.6238,0.7722
+gradient_boosting,0.6452,0.6469,0.2372,0.8026
